@@ -1,0 +1,6 @@
+openhab_userdata/backup/*
+openhab_userdata/cache/*
+openhab_userdata/logs/*
+openhab_userdata/tmp/*
+openhab_userdata/jsondb/backup/*
+
